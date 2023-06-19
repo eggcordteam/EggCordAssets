@@ -25,6 +25,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 girldick
 initproc exited -- exit namespace 1 subcode 0x7 description: none
 Timed out waiting for download mode
+SEP Panic: :skg /skgs
 OH SHIT
 trans rights are human rights
 your mother
